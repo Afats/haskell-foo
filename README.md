@@ -1,1 +1,3 @@
-# haskell-foo
+# Haskell Foo
+
+Exercises in Haskell. Uni stuff.
